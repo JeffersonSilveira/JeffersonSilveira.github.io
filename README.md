@@ -1,4 +1,5 @@
 
+<p align="left"><img src="https://komarev.com/ghpvc/?username=jeffersonsilveira" alt="dexternatan" /></p>
 
 <img align="right" width="400" height="300" src="https://github.com/JeffersonSilveira/JeffersonSilveira/blob/master/img/animation_.gif">
 
