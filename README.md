@@ -18,6 +18,7 @@ Software developer, it is with great satisfaction to have you on my GitHub page,
 [![Youtube: JeffersonRosa](https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/user/MyJefferson30/videos)](https://www.youtube.com/user/MyJefferson30/videos)
 
 
+## ⚡ Technologies
 
 ## These are some of the technologies and tools that I work with:
 
