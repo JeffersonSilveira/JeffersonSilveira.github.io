@@ -15,6 +15,8 @@ Software developer, it is with great satisfaction to have you on my GitHub page,
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jefferson-silveira-da-rosa-68090544/)](https://www.linkedin.com/in/jefferson-silveira-da-rosa-68090544/)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=seu_telefone_55+51+991778090_de_telefone&text=Hello!)](https://api.whatsapp.com/send?phone=seu_telefone_55+51+991778090_de_telefone&text=Hello!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jeffersonsilveira30@gmail.com)](mailto:jeffersonsilveira30@gmail.com)
+[![Youtube: JeffersonRosa](https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/user/MyJefferson30/videos)](https://www.youtube.com/user/MyJefferson30/videos)
+
 
 
 ## These are some of the technologies and tools that I work with:
