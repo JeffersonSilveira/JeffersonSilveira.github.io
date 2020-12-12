@@ -40,7 +40,6 @@ Software developer, it is with great satisfaction to have you on my GitHub page,
 ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-
 - Thanks for visiting. 
 
 - Enjoy it!! o/
